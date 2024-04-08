@@ -7,3 +7,13 @@ h2{
     color:  red;
     background-attachment: fixed;
 }
+
+p{
+    line-height: 1.5;
+    color: rgb(0, 16, 233);
+}
+
+image{
+    display: block;
+    margin: 0 auto;
+}
